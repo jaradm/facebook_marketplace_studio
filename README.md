@@ -209,5 +209,7 @@ Start by testing with 1–2 products before bulk posting.
 
 ---
 
-If you want help customizing or expanding this tool, feel free to ask.
+## 👤 Author
+
+**Muhammad Jamal Jarad**
 
