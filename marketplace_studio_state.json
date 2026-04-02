@@ -1,0 +1,110 @@
+{
+  "excel_path": "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\products.xlsx",
+  "images_dir": "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\images",
+  "default_location": "Chicago, Illinois",
+  "profile_name": "default",
+  "products": [
+    {
+      "row_number": 2,
+      "item_number": "U45",
+      "title": "Modern Style 3 Piece Power Motion Reclining Sectional",
+      "description": "Modern 3-piece power reclining sectional in stylish black corduroy fabric. Features left and right power reclining loveseats with plush channel tufted backs and seats for comfort. Includes LED under-lighting, Bluetooth speakers, USB charging ports, cup holders, and storage compartments in both consoles. Perfect for relaxing and entertaining.\nTotal Price: $3850\nDown-Payment: $450\nPayment Terms: $100/2 weeks",
+      "total_price": "3850",
+      "down_payment_price": "450",
+      "payment_term_price": "100",
+      "location": "Chicago, Illinois",
+      "category": "Household",
+      "condition": "New",
+      "currency": "USD",
+      "image_paths": [
+        "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\images\\U45.jpg"
+      ],
+      "selected": true,
+      "ready": true,
+      "status": "ready",
+      "notes": "Ready"
+    },
+    {
+      "row_number": 3,
+      "item_number": "B100",
+      "title": "Modern Style King Bed, Dresser & Mirror",
+      "description": "Modern style king bedroom set including a king bed, dresser with a mirror, chest of drawers, and a nightstand. Features black wood finish with gold accents and light gray upholstered panels on the bed. Clean lines and elegant design that fits contemporary decor. Sturdy construction and spacious storage with multiple drawers. Perfect for a stylish and functional bedroom update. \nTotal Price: $4900\nDown-Payment: $500\nPayment Terms: $150/2 weeks",
+      "total_price": "4900",
+      "down_payment_price": "500",
+      "payment_term_price": "150",
+      "location": "Chicago, Illinois",
+      "category": "Household",
+      "condition": "New",
+      "currency": "USD",
+      "image_paths": [
+        "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\images\\B100.jpg"
+      ],
+      "selected": true,
+      "ready": true,
+      "status": "ready",
+      "notes": "Ready"
+    },
+    {
+      "row_number": 4,
+      "item_number": "U350",
+      "title": "Contemporary Style 2 Piece Sectional",
+      "description": "Contemporary 2-piece sectional in a soft, textured gray fabric offering plush, comfortable seating. Features a spacious right-side chaise lounge perfect for relaxing. Includes multiple decorative throw pillows in coordinating neutral colors. Supported by sturdy block feet. A stylish and cozy addition to any living room.\nTotal Price: $2450\nDown-Payment: $350\nPayment Terms: $100/2 weeks",
+      "total_price": "2450",
+      "down_payment_price": "350",
+      "payment_term_price": "100",
+      "location": "Chicago, Illinois",
+      "category": "Household",
+      "condition": "New",
+      "currency": "USD",
+      "image_paths": [
+        "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\images\\U350.jpg"
+      ],
+      "selected": true,
+      "ready": true,
+      "status": "ready",
+      "notes": "Ready"
+    },
+    {
+      "row_number": 5,
+      "item_number": "U354",
+      "title": "Contemporary Style 2 Piece Sectional",
+      "description": "Enjoy both style and comfort with this contemporary 2-piece sectional set in a neutral beige tone. It features a spacious L-shaped design with plush seat and back cushions, accented by a mix of textured and patterned throw pillows for added coziness. The matching ottoman offers versatile use as a footrest or coffee table. Perfect for any modern living room, this sectional brings a warm, inviting atmosphere to your space.\nTotal Price: $2450\nDown-Payment: $350\nPayment Terms: $100/2 weeks",
+      "total_price": "2450",
+      "down_payment_price": "350",
+      "payment_term_price": "100",
+      "location": "Chicago, Illinois",
+      "category": "Household",
+      "condition": "New",
+      "currency": "USD",
+      "image_paths": [
+        "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\images\\U354_1.jpg",
+        "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\images\\U354_2.jpg"
+      ],
+      "selected": true,
+      "ready": true,
+      "status": "ready",
+      "notes": "Ready"
+    },
+    {
+      "row_number": 6,
+      "item_number": "U355",
+      "title": "Contemporary Style 2 Piece Sectional",
+      "description": "Contemporary 2-piece sectional sofa in stylish dark fabric with coordinated accent pillows and matching ottoman. Clean lines and plush cushions offer both comfort and modern appeal. Perfect for living rooms needing elegant yet cozy seating. Lightly used and well maintained.\nTotal Price: $2450\nDown-Payment: $350\nPayment Terms: $100/2 weeks",
+      "total_price": "2450",
+      "down_payment_price": "350",
+      "payment_term_price": "100",
+      "location": "Chicago, Illinois",
+      "category": "Household",
+      "condition": "New",
+      "currency": "USD",
+      "image_paths": [
+        "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\images\\U355_1.jpg",
+        "C:\\Users\\Owner\\Desktop\\MJJ\\MueblesDelArabe\\FacebookPostingProgram\\images\\U355_2.jpg"
+      ],
+      "selected": true,
+      "ready": true,
+      "status": "ready",
+      "notes": "Ready"
+    }
+  ]
+}
